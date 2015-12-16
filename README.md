@@ -27,3 +27,12 @@ HEAD ==> HEAD always refers to the current commit, be it a branch or a specific 
 4) README.md file explains to other peoples what the project does
 5) .gitignore file tells git what files should not be under version control
 6) <git clone> to copy a repo to my local system 
+
+############### Why version control system ####################
+
+The whole idea behind any version control system is to store “safe” copies of a project so that you never have to worry about irreparably
+breaking your code base.
+
+############### Need of git checkout to load older version of a file ####################
+
+Once you have built up a project history, git checkout is an easy way to load any of these saved snapshots onto your development machine.
